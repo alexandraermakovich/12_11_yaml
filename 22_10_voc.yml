@@ -5,6 +5,8 @@ students:
       name: Alexandra
       faculty: law
       specialty: international law
+      city: loooo
+      country: booop
   - group 2:
       name: Lizavetta
       faculty: economics
